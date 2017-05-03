@@ -1,0 +1,3 @@
+github "ProcedureKit/ProcedureKit" "4.1.0"
+github "matthewpalmer/Locksmith"
+github "yageek/APIKit" "develop"
